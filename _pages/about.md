@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Research 
 
-**A.Journal Publications**
+**A. Journal Publications**
 - Zha, W., & Li, J.* (2025). Understanding commuters' perceived accessibility and travel intentions under rainstorm warnings in Shanghai, China. Transport Policy, 167, 276-294.
 - Li, J.*, Gan, T., Li, W., & Liu, Y. (2025). A spatiotemporal knowledge graph-based method for identifying individual activity locations from mobile phone data. Journal of Transport Geography, 124, 104157.
 - Wang, A., Zhu, G., & Li, J.* (2025). Collaborative supervision of dangerous goods supply chain: A blockchain-based conceptual platform. Computers & Industrial Engineering, 200, 110818.
@@ -99,7 +99,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Li, J., Ozbay, K., Bartin, B., Iyer, S., & Carnegie, J. A. (2013). Empirical evacuation response curve during hurricane Irene in Cape May county, new jersey. Transportation Research Record, 2376(1), 1-10.
 - Li, J., & Ozbay, K. (2012). Evaluation of link criticality for day-to-day degradable transportation networks. Transportation Research Record, 2284(1), 117-124.
 
-**B.Publication in Chinese**
+**B. Publication in Chinese**
 - 李健*,朱国军,王奥,夏强,周胥君 & 李毅喆.城市交通知识增强大语言模型构建及应用探索.城市交通1-15.doi:10.13813/j.cn11-5141/u.2024.0046.
 - 李健*.(2023).交通运输新业态敏捷治理.城市交通(03),9-10.
 - 陈冉冉,徐佳力,李健*. (2023) 基于GPS数据的危险品运输车辆行程链聚类研究[J].中国安全科学学报,2023,33(09):157-163.
@@ -120,10 +120,10 @@ My research interest includes neural machine translation and computer vision. I 
 - 李健*, 周漪, & 刘威. (2016). 上海市历史城区震后应急救援路网评价与优化. 交通运输系统工程与信息, 17(2), 227-233.
 - 王琦, & 李健*. (2016). 居住型轨道站点周边慢行交通设施评价与改善. 武汉理工大学学报: 交通科学与工程版, 40(3), 544-549.
 
-**C.Books**
+**C. Books**
 - Jian Li. Traffic Management under Urban Public Health Emergency, Tongji University Press, 2025.
 
-**D.Research Grants**
+**D. Research Grants**
 - 2024. Fine perception and evaluation optimization technology for urban land space, Co-PI, Funded by The National Key Research and Development Program of China.
 - 2023. Comprehensive actions for spatial planning of low carbon and resilient cities in response to climate change - Part of China, PI, Funded by GIZ.
 - 2022. Human mobility behavior Pattern discovery and prediction method integrating spatiotemporal knowledge graph and deep learning, PI, Shanghai "Science and Technology Innovation Action Plan" Artificial Intelligence Technology Project.
@@ -140,22 +140,33 @@ My research interest includes neural machine translation and computer vision. I 
 - 2014. Urban Expressway Macroscopic Speed Dispersion Characteristics and Mechanism, PI, Funded by Tongji University.
 
 
-**E.Presentations/Conference Papers**
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**E. Presentations/Conference Papers**
+- Liu, G. and Li, J. (2022) Incorporating Uncertainty into Freeway Incident Detection: A Bayesian Deep Learning Method. Presented at 101st Annual Meeting of the Transportation Research Board, Washington, D.C.
+- Wang, X. and Li, J. (2022) Modeling Disruption Duration of Subway Service in Shanghai: An Empirical Study using Random Survival Forests. Presented at 101st Annual Meeting of the Transportation Research Board, Washington, D.C.
+- He, L., Li, W., Li, J. and Sun, J. (2022) How to Lessen the Impact of Transport Policy on Work Resumption During the Pandemic: A Framework Based on Mobile Phone Data. Presented at 101st Annual Meeting of the Transportation Research Board, Washington, D.C.
+- Wu, R., Li, W., Yu, Q. and Li, J. (2022) Analysis of the Relationship Between Dockless Bicycle-sharing and the Metro: Connection, Competition, and Complementation. Presented at 101st Annual Meeting of the Transportation Research Board, Washington, D.C.
+- Li, J., Xu, P., Li, W. and Gan, T. (2021) Urban traffic congestion evolution patterns during the COVID-19 pandemic. The 8th International Symposium on Transport Network Reliability (INSTR), online, 16-18 June 2021.
+- Wang, X., Li, J., Bian, R. and Zhou, Y. (2021) Commuting Behavior Changes in the Post COVID-19 Period: A Case Study of Shanghai. Presented at 100th Annual Meeting of the Transportation Research Board, Washington, D.C.
+- He, L., D. Yang and J. Li. (2020) Modeling passenger satisfaction of exclusive bus lanes in Shanghai, China. Presented at 99th Annual Meeting of the Transportation Research Board, Washington, D.C.
+- Li, J. and X. Wang. (2020) Multimodal Evacuation after Subway Breakdown: A Modeling Framework and Mode Choice Behavior. Presented at 99th Annual Meeting of the Transportation Research Board, Washington, D.C.
+- Li, J. (2019) The Emerging Territorial Spatial Planning in China and its impacts on Transportation Planning. Presented at the 19th COTA International Conference of Transportation Professionals, Nanjing, China.
+- Cui Y, Wang X, Ju M and Li J. (2019) A simulation-based multi-modal emergency evacuation model considering shared bicycles for urban rail transit breakdowns. Presented at 98th Annual Meeting of the Transportation Research Board, Washington, D.C.
+- Li, J. and Y. Zhou. (2018). Optimizing Risk Mitigation Investment Strategies for Improving Post-Earthquake Road Network Resilience. Presented at 97th Annual Meeting of Transportation Research Board, Washington, D.C.
+- Huang, S., D. Yang and J. Li. (2017) Accessing Equity in Transport Accessibility to Community Health Service in Shanghai, China. 14th International Conference on Urban Health, Portugal, Sep. 26-29.
+- Liu, Y., J. Li and X. Chen. (2016) Modeling Heteroscedastic Traffic Speed Dispersion on Urban Expressways: A Case Study in Shanghai. World Conference on Transport Research - WCTR 2016 Shanghai. 10-15 July
+- Li, J. (2016) Emergency Management of Urban Mass Traffic: Lessons Learned from Hurricane Irene and Sandy in New Jersey and Inspirations for Major Holidays in Shanghai. International Workshop on Resilient and Sustainable Transportation, Shanghai, China.
+-	Li, W., X. Cheng, J. Li*, and D. Yang. (2016) Rail transit user classification using mobile phone signaling data: a case study of three communities in Shanghai, China. Accepted for presentation in 95th Annual Meeting of Transportation Research Board, Washington, D.C.
+-	Li, Z., J. Sun, and J. Li*. (2016) Comparison of speed-flow relationships on freeways at US and China and Digging into the roots of differences. Accepted for presentation in 95th Annual Meeting of Transportation Research Board, Washington, D.C.
+-	Yang, Y., W. Li, D. Hai, J. Li*, and D. Yang. (2016) How the chauffeured cars affect the taxi market? A case study in Xiamen, China. Accepted for presentation in 95th Annual Meeting of Transportation Research Board, Washington, D.C.
+-	Li, Y., Q. He, and J. Li*. (2016) Evaluation of the toll-free policy on major holidays in China: the economic stimulus versus highway capacity. Accepted for presentation in 95th Annual Meeting of Transportation Research Board, Washington, D.C.
+-	Li, J. and K. Ozbay. (2015) Sampling-based Method for Road Capacity Uncertainty Analysis in Evacuation Planning. 2nd International Conference on Evacuation Modeling and Management, Chicago, IL, August 13-15.
+-	Li, J. and K. Ozbay. (2014) Effects of Hurricane Irene and Sandy in New Jersey: evacuation traffic patterns. 93rd Annual Meeting of Transportation Research Board, Washington, D.C., January 12-16.
+-	Ozbay, K., J. Li, M.A. Yazici, S. Iyer, E.E. Ozguven, and J.A. Carnegie. (2012) Pseudo-dynamic evacuation modeling procedure. 2nd International Conference on Evacuation Modeling and Management, Chicago, IL, August 13-15.
+-	Li, J. and K. Ozbay. (2012) A cell-based stochastic dynamic traffic assignment model and solution procedure to capture endogenous network degradation risks during evacuations. 4th International Symposium on Dynamic Traffic Assignment, Martha’s Vineyard, MA, June 4-6.
+-	Li, J. and K. Ozbay. (2011) Risk based staged evacuation planning. 14th IEEE Intelligent Transportation Systems Conference, Washington, D.C., October 5-7.
+-	Li, J. and K. Ozbay. (2010) Sampling-based approach for incorporating road capacity uncertainties into the transportation planning process. 3rd Conference on Innovations in Travel Modeling, Tempe, AZ, May 10-12.
+-	Li, J. and K. Ozbay. (2010) An investigation of the convergence and accuracy properties of Latin Hypercube Sampling technique for traffic equilibrium problem under capacity uncertainty. 89th Annual Meeting of Transportation Research Board, Washington, D.C., January 10-14.
+-	Li, J. and K. Ozbay. (2009) Incorporating system variability into emergency planning. International Conference on Models and Technology for Intelligent Transportation Systems, Roma, Italy, June 22-23.
 
 
 
