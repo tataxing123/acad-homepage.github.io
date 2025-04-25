@@ -124,20 +124,20 @@ My research interest includes neural machine translation and computer vision. I 
 - Jian Li. Traffic Management under Urban Public Health Emergency, Tongji University Press, 2025.
 
 **D. Research Grants**
-- 2024. Fine perception and evaluation optimization technology for urban land space, Co-PI, Funded by The National Key Research and Development Program of China.
-- 2023. Comprehensive actions for spatial planning of low carbon and resilient cities in response to climate change - Part of China, PI, Funded by GIZ.
-- 2022. Human mobility behavior Pattern discovery and prediction method integrating spatiotemporal knowledge graph and deep learning, PI, Shanghai "Science and Technology Innovation Action Plan" Artificial Intelligence Technology Project.
-- 2022. Resilient urban transportation planning theory and methods in response to extreme meteorological disasters, co-PI, Funded by Tongji University.
-- 2020. “Research on tracking and early warning of spatial big data for prevention and control of COVID-19”, Co-PI, Funded by Tongji University.
-- 2020. “Key technologies of collaborative intelligent management and control of transportation and public security for COVID-19”, Co-PI, Funded by Tongji University.
-- 2019. “Agile Prediction and Reliable Deduction of “State Migration-Situation Evolution” of Urban Transport, PI, 2019.1-2022.12, Funded by The National Key Research and Development Program of China.
-- 2019. Study on Dynamic Perceived Risk and Coordinated Control of Regional Traffic and Urban Safety, PI, 2019.1-2021.12, Funded by The National Key Research and Development Program of China.
-- 2019. Intelligent monitoring and comprehensive management and control technology for the transportation of dangerous chemicals, Co-PI, 2019.10-2022.10, Funded by Shanghai Science and Technology Commission.
-- 2018. Traffic public opinion analysis technology, Co-PI, 2018.6-2019.3, Funded by Shenzhen Urban Transport Planning Center.
-- 2017. Dynamic Monitoring and Travel Characteristics Analysis of Xiamen Public Transport Passenger Flow in the Early Stage of Rail Transit Operation, PI, 2017.10-2019.12, Funded by Fujian Transportation Department.
-- 2017. Emergency Management Strategy for Major Holiday Road Networks considering Limited Rational Travel Behavior， PI, 2017.1-2019.12, Funded by National Natural Science Foundation.
-- 2016. Urban Expressway Speed Dispersion Characteristics and Mechanism based on Stochastic Fundamental Diagram, PI, 2016.6-2018.6, Funded by Shanghai Pujiang Talent Program.
-- 2014. Urban Expressway Macroscopic Speed Dispersion Characteristics and Mechanism, PI, Funded by Tongji University.
+- *2024*. Fine perception and evaluation optimization technology for urban land space, Co-PI, Funded by The National Key Research and Development Program of China.
+- *2023*. Comprehensive actions for spatial planning of low carbon and resilient cities in response to climate change - Part of China, PI, Funded by GIZ.
+- *2022*. Human mobility behavior Pattern discovery and prediction method integrating spatiotemporal knowledge graph and deep learning, PI, Shanghai "Science and Technology Innovation Action Plan" Artificial Intelligence Technology Project.
+- *2022*. Resilient urban transportation planning theory and methods in response to extreme meteorological disasters, co-PI, Funded by Tongji University.
+- *2020*. “Research on tracking and early warning of spatial big data for prevention and control of COVID-19”, Co-PI, Funded by Tongji University.
+- *2020*. “Key technologies of collaborative intelligent management and control of transportation and public security for COVID-19”, Co-PI, Funded by Tongji University.
+- *2019*. “Agile Prediction and Reliable Deduction of “State Migration-Situation Evolution” of Urban Transport, PI, 2019.1-2022.12, Funded by The National Key Research and Development Program of China.
+- *2019*. Study on Dynamic Perceived Risk and Coordinated Control of Regional Traffic and Urban Safety, PI, 2019.1-2021.12, Funded by The National Key Research and Development Program of China.
+- *2019*. Intelligent monitoring and comprehensive management and control technology for the transportation of dangerous chemicals, Co-PI, 2019.10-2022.10, Funded by Shanghai Science and Technology Commission.
+- *2018*. Traffic public opinion analysis technology, Co-PI, 2018.6-2019.3, Funded by Shenzhen Urban Transport Planning Center.
+- *2017*. Dynamic Monitoring and Travel Characteristics Analysis of Xiamen Public Transport Passenger Flow in the Early Stage of Rail Transit Operation, PI, 2017.10-2019.12, Funded by Fujian Transportation Department.
+- *2017*. Emergency Management Strategy for Major Holiday Road Networks considering Limited Rational Travel Behavior， PI, 2017.1-2019.12, Funded by National Natural Science Foundation.
+- *2016*. Urban Expressway Speed Dispersion Characteristics and Mechanism based on Stochastic Fundamental Diagram, PI, 2016.6-2018.6, Funded by Shanghai Pujiang Talent Program.
+- *2014*. Urban Expressway Macroscopic Speed Dispersion Characteristics and Mechanism, PI, Funded by Tongji University.
 
 
 **E. Presentations/Conference Papers**
