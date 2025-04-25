@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "JIAN LI, Ph.D."
+excerpt: "Associate Professor in Transportation Engineering"
 author_profile: true
 redirect_from: 
   - /about/
@@ -43,12 +43,22 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*, Shanghai Urban Planning Society Second Prize. Special Plan for Near Zero Carbon Water Living Room in the Yangtze River Delta Ecological Green Integration Development Demonstration Zone.
+- *2023*, China Urban Planning Society Third Prize, Guidelines for Facilities Space Planning and Design around Urban Rail Transit Station.
+- *2021*, China Highway & Transportation Society Second Prize, Epidemic Prevention and Control in Passenger Transportation: Theories and Applications.
+- *2020*, Science and Technology of China Urban Planning Society First Prize, Key technologies of urban transport fine governance evaluation based on individual travel deduction.
+- *2020*, Huaxia Construction Science and Technology First Prize, Key technologies and applications of urban traffic situation deduction and comprehensive evaluation based on big data.
+- *2019*, Shenzhen Science and Technology Progress First Prize, Project Title: Comprehensive evaluation technology and application of big data for urban traffic governance.
+- *2018*, the winner of Mobile Hyperplaces competition, Project Title: Time++ Bus, not only for commuting. https://www.ivmchina.org/2018/12/28/mobile-hyperplaces-competition-and-the-winner-is/
+- *2016*, sponsored by Shanghai Pujiang Talent Program.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013*, Ph. D., Department of Civil and Environmental Engineering, Rutgers University. Dissertation Topic: Modeling Evacuation Traffic in Degradable Transportation Systems. Advisor: Kaan Ozbay
+- *2011*, M.S., Center for Operations Research, Rutgers University.
+- *2008*, M.E., Department of Traffic Engineering, Tongji University.
+- *2005*,	B.E., School of Transportation Engineering, Tongji University.
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
