@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#education"
 
   - title: "Professional Positions"
-    url: "/#professional-positions"
+    url: "/#positions"
 
   - title: "Research Interests"
-    url: "/#research-interests"
+    url: "/#research"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/#honors"
 
   - title: "Research"
-    url: "/#research"
+    url: "/#publications"
 
   - title: "Teaching"
     url: "/#teaching"
