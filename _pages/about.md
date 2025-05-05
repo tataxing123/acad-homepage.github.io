@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='JIAN LI' id='about-me'></span>
+<span class='anchor' id='about-me'></span>
 
 
 # 📖 Education
