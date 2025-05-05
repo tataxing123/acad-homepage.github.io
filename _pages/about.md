@@ -7,21 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span id="education"></span>
+
+<span class='JIAN LI' id='about-me'></span>
+
+
 # 📖 Education
 - *2013*, Ph. D., Department of Civil and Environmental Engineering, Rutgers University. Dissertation Topic: Modeling Evacuation Traffic in Degradable Transportation Systems. Advisor: Kaan Ozbay
 - *2011*, M.S., Center for Operations Research, Rutgers University.
 - *2008*, M.E., Department of Traffic Engineering, Tongji University.
 - *2005*,	B.E., School of Transportation Engineering, Tongji University.
 
-<span id="positions"></span>
+
 # 💬 Professional Positions
 - *2017-present* Associate Professor, School of Transportation Engineering, Tongji University, Shanghai, China. 
 - *2014-2016* Assistant Professor, School of Transportation Engineering, Tongji University, Shanghai, China.
 - *2013-2014* Research Associate, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University, Hong Kong SAR, China.
 
 
-<span id="research"></span>
+
 # 💻 Research Interests
 - Transportation System Resiliency and Emergency Management
 - Data Mining and Artificial Intelligent
@@ -29,7 +32,7 @@ redirect_from:
 
 
 
-<span id="honors"></span>
+
 # 🎖 Honors and Awards
 - *2024*, Shanghai Urban Planning Society Second Prize. Special Plan for Near Zero Carbon Water Living Room in the Yangtze River Delta Ecological Green Integration Development Demonstration Zone.
 - *2023*, China Urban Planning Society Third Prize, Guidelines for Facilities Space Planning and Design around Urban Rail Transit Station.
@@ -45,7 +48,7 @@ redirect_from:
 
 
 
-<span id="publications"></span>
+
 # 📝 Research 
 
 **A. Journal Publications**
@@ -157,7 +160,7 @@ redirect_from:
 
 
 
-<span id="teaching"></span>
+
 # 🧑‍🏫 Teaching
 **A.	University Courses Offered** 
 - Undergraduate Courses
@@ -179,7 +182,7 @@ redirect_from:
    - Postgraduated:
      - Zenghang Hong, Yuhang Liu Zhouhe Liu (Fall 2022), Yilin Hao, Ao Wang, Xihan Yang (Fall 2023), Yizhe Li (Fall 2024), Yongsheng Lu, Zhiwei Huang (Fall 2025)
 
-<span id="service"></span>
+
 # 🎓 Service
 - Deputy Secretary, 2019-resent, Urban Transport Planning Academic Committee of China Urban Planning Society.
 - Urban Transport of China, Editor
