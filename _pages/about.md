@@ -12,7 +12,7 @@ redirect_from:
 
 
 # 📖 Education
-- *2013*, Ph. D., Department of Civil and Environmental Engineering, Rutgers University. Dissertation Topic: Modeling Evacuation Traffic in Degradable Transportation Systems. Advisor: Kaan Ozbay
+- *2013*, Ph. D., Department of Civil and Environmental Engineering, Rutgers University. Dissertation Topic: Modeling Evacuation Traffic in Degradable. Transportation Systems. Advisor: Kaan Ozbay
 - *2011*, M.S., Center for Operations Research, Rutgers University.
 - *2008*, M.E., Department of Traffic Engineering, Tongji University.
 - *2005*,	B.E., School of Transportation Engineering, Tongji University.
